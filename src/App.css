@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.pagination{
+  --bs-pagination-color: #f8f9fa;
+    --bs-pagination-bg: #212529;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
